@@ -1,1 +1,7 @@
-
+#SpongeBOB{
+font-size: 15px;
+}
+.Imagge{
+  background-image: url("../img/turtle.gif");
+  background-position: center;
+}
